@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculIMC</string>
+    <string name="titre">Calcul de l\'IMC</string>
+
+    <string name="hint_poids">Poids en kg</string>
+    <string name="hint_taille">Taille en m</string>
+
+    <string name="bouton_calculer">Calculer</string>
+    <string name="bouton_effacer">Effacer</string>
+    <string name="bouton_partager">Partager le résultat</string>
+
+    <!-- Résultat -->
+    <string name="format_imc">IMC : %1$.2f</string>
+    <string name="partage_texte">Mon IMC est de %1$.2f (%2$s).</string>
+    <string name="partage_titre">Partager le résultat</string>
+
+    <!-- Catégories -->
+    <string name="categorie_insuffisance">Insuffisance pondérale</string>
+    <string name="categorie_normale">Corpulence normale</string>
+    <string name="categorie_surpoids">Surpoids</string>
+    <string name="categorie_obesite_moderee">Obésité modérée</string>
+    <string name="categorie_obesite_severe">Obésité sévère</string>
+    <string name="categorie_obesite_morbide">Obésité morbide</string>
+
+    <!-- Erreurs -->
+    <string name="erreur_champ_vide">Veuillez compléter ce champ</string>
+    <string name="erreur_valeur_invalide">Valeur invalide</string>
+    <string name="erreur_valeur_positive">La valeur doit être strictement positive</string>
+    <string name="toast_completer">Veuillez compléter les informations</string>
+    <string name="toast_erreur_saisie">Saisie incorrecte : vérifiez les valeurs</string>
+
+    <string name="remarque">L\'IMC est un support de programmation. Son interprétation ne remplace pas un avis médical.</string>
+</resources>
